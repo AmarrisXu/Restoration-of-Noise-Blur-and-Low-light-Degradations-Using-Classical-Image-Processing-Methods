@@ -2,7 +2,6 @@
 ExDark/
 
 # Output files
-*.png
 lowlight_comparison.png
 
 # Python
