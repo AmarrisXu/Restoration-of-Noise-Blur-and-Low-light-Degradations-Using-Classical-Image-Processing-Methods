@@ -7,3 +7,6 @@ scipy>=1.7.0
 torch>=1.9.0
 lpips>=0.1.4
 
+# Noise Removal Requirements
+bm3d>=1.0.0
+

@@ -1,5 +1,7 @@
 # Dataset
 ExDark/
+BSD500/
+BSD68/
 
 # Output files
 lowlight_comparison.png
@@ -16,6 +18,7 @@ venv/
 *.egg-info/
 dist/
 build/
+analyze_noise_images.py
 
 # IDE
 .idea/
@@ -29,4 +32,5 @@ Thumbs.db
 
 # Jupyter
 .ipynb_checkpoints/
+run_denoise.ipynb
 
