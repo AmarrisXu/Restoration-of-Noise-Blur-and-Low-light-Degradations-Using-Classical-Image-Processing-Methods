@@ -92,7 +92,7 @@ Clean images are taken from COCO128, a small subset of the COCO dataset containi
 Before running the scripts, the images are downloaded from Google Drive and placed in a local directory, for example:
 
 ```
-COCO128/
+[COCO128/](https://drive.google.com/file/d/1WoGgw8Km4YWPgdOu1_3OTWInLg4Kf8MR/view?usp=sharing)
 ```
 
 
