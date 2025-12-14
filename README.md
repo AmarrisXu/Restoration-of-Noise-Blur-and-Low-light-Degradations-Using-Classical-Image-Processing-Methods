@@ -106,7 +106,7 @@ The COCO128 subset is used to:
 
 
 
-Notes on Data Access
+## Notes on Data Access
 
 Google Drive is used only as a dataset storage and sharing platform
 
@@ -114,14 +114,16 @@ All scripts operate on local file paths after download
 
 No online access or Drive API is required during execution
 
-How to Run
+## How to Run
 
 All scripts are executed directly using Python:
 
+```
 python generate_motion_blur_dataset.py
 python run_deblurring_wiener_rl.py
 python evaluate_deblurring_metrics.py
 python avg.py
+```
 
 ## Output
 
